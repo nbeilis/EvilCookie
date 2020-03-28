@@ -1,6 +1,6 @@
 # EvilCookie
 
-## Download on the app store 
+### Download on the app store 
 https://apps.apple.com/us/app/evil-cookie/id1478649765
 
 ### What is Evil Cookie
