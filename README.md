@@ -1,5 +1,8 @@
 # EvilCookie
 
+## Download on the app store 
+https://apps.apple.com/us/app/evil-cookie/id1478649765
+
 ### What is Evil Cookie
 An app where the user cracks open a fortune cookie to reveal an insult.
 
